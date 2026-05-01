@@ -13,3 +13,5 @@ Responsive weather app built with React + TypeScript using OpenWeatherMap API.
 - TypeScript
 - OpenWeatherMap API
 - Vite
+## 🌐 Live Demo
+https://weather-dashboard-7alr.vercel.app/
